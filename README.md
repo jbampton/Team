@@ -4,6 +4,10 @@
 
 - [The Real Beast](http://thebeast.me/about/)
 
+###NOC Manager and Senior Network Engineer
+
+- [Nicholas Meredith](https://twitter.com/MrNickMeredith)
+
 ###Top Database Professional
 
 - [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f)
