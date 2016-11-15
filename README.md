@@ -2,31 +2,31 @@
 
 ###Founder, CTO and Lead Programmer
 
-- [The Real Beast](http://thebeast.me/about/)
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak
 
 ###NOC Manager and Senior Network Engineer
 
-- [Nicholas Meredith](https://twitter.com/MrNickMeredith)
+- [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The EtherNic Beast
 
 ###Top Database Professional
 
-- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f)
+- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast
 
 ###Lead JavaScript / Python Programmer
 
-- [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi)
+- [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi) - Sensei
 
 ###Lead Rails Programmer
 
-- [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f)
+- [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f) - Ninja
 
 ###Project Manager
 
-- [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/)
+- [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi
 
 ###Junior Rails Programmer
 
-- [Alex Chan](https://www.codewars.com/users/alexchan104)
+- [Alex Chan](https://www.codewars.com/users/alexchan104) - Yellow Belt
 
 
 #Applications are now open to join **The Real Beast Team**
