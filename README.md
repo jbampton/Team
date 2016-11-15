@@ -12,7 +12,7 @@
 
 - [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f)
 
-###Lead JavaScript / Python Progammer
+###Lead JavaScript / Python Programmer
 
 - [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi)
 
