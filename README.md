@@ -24,6 +24,10 @@
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/)
 
+###Junior Ruby on Rails Programmer
+
+- [Alex Chan](https://www.codewars.com/users/alexchan104)
+
 
 #Applications are now open to join **The Real Beast Team**
 
@@ -33,6 +37,6 @@ Follow **The Real Beast** himself on GitHub to receive an invite to the team.
 
 #WANTED
 
-Reliable, motivated, English speaking (on Codewars) Junior Ruby on Rails Developer who wants to shake it up and make some noise...!?!?!?!!!
+Reliable, motivated, English speaking (on Codewars) Junior Ruby on Rails Developers who want to shake it up and make some noise...!?!?!?!!!
 
 
