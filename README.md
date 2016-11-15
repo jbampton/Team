@@ -24,3 +24,11 @@
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/)
 
+
+##Applications are now open to join **The Real Beast Team**
+
+Follow **The Real Beast** himself on GitHub to receive an invite to the team.
+
+**Jedi Master** or **Sensei** Level applicants only.
+
+
