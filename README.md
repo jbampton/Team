@@ -2,7 +2,7 @@
 
 ###Founder, CTO and Lead Programmer
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style 
 
 ###NOC Manager and Senior Network Engineer
 
