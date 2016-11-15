@@ -24,7 +24,7 @@
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/)
 
-###Junior Ruby on Rails Programmer
+###Junior Rails Programmer
 
 - [Alex Chan](https://www.codewars.com/users/alexchan104)
 
