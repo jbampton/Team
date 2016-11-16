@@ -1,8 +1,8 @@
-#The Real Beast Team
+#The Real Beast Team :us:
 
 ###Founder, CTO and Lead Programmer
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
 
 ###Consultant, Leadership and Business Strategy
 
@@ -30,12 +30,12 @@
 
 ###Project Manager
 
-- [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi
+- [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi :libra:
 
 
 #Applications are now open to join **The Real Beast Team**
 
-Follow **The Real Beast** himself on GitHub to receive an invite to the team.
+Roll up :loudspeaker:, roll up :loudspeaker:, follow **The Real Beast** himself on GitHub to receive an invite to the team.
 
 **Jedi Master** or **Sensei** Level applicants only.
 
