@@ -12,6 +12,10 @@
 
 - [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The EtherNic Beast
 
+###System Architect, System Analyst, Oracle Developer
+
+- [Leigh Taylor](https://github.com/leightaylor77)
+
 ###Top Database Professional
 
 - [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast
