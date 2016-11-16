@@ -32,10 +32,6 @@
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi
 
-###Junior Rails Programmer
-
-- [Alex Chan](https://www.codewars.com/users/alexchan104) - Yellow Belt
-
 
 #Applications are now open to join **The Real Beast Team**
 
