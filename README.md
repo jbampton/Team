@@ -1,34 +1,34 @@
-#The Real Beast Team :us:
+#The Real Beast Team :us: :statue_of_liberty:
 
-###Founder, CTO and Lead Programmer
+###Founder, CTO and Lead Programmer :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
 - [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
 
-###Consultant, Leadership and Business Strategy
+###Consultant, Leadership and Business Strategy :us: :older_man:
 
 - [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - Energy Beast
 
-###NOC Manager and Senior Network Engineer
+###NOC Manager and Senior Network Engineer :man:
 
 - [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The EtherNic Beast
 
-###System Architect, System Analyst, Oracle Developer
+###System Architect, System Analyst, Oracle Developer :princess:
 
 - [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152) - Oracle Beast
 
-###Top Database Professional
+###Top Database Professional :us: :man:
 
-- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast
+- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast :capricorn:
 
-###Lead JavaScript / Python Programmer
+###Lead JavaScript / Python Programmer :de: :man:
 
 - [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi) - Sensei
 
-###Lead Rails Programmer
+###Lead Rails Programmer :man:
 
 - [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f) - Ninja
 
-###Project Manager
+###Project Manager :it: :princess: 
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi :libra:
 
