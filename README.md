@@ -1,10 +1,10 @@
-#The Real Beast Team :us: :statue_of_liberty:
+#The Real Beast Team :family: :restroom: :clock12: :no_smoking: :no_mobile_phones: :e-mail: :do_not_litter: :no_pedestrians:  :shipit: :us: :statue_of_liberty::boom::boom::boom::boom::bangbang::bangbang::bangbang::bangbang::bangbang:
 
-###Founder, CTO and Lead Programmer :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
+###Founder, CTO and Lead Programmer :neckbeard: :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
 - [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
 
-###Consultant, Leadership and Business Strategy :us: :older_man:
+###Consultant, Leadership and Business Strategy :us: :older_man: :whale:
 
 - [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - Energy Beast
 
@@ -33,7 +33,7 @@
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi :libra:
 
 
-#Applications are now open to join **The Real Beast Team**
+#Applications are now open to join **The Real Beast Team** :passport_control::moneybag::credit_card::red_car::sailboat::speedboat::helicopter::airplane:
 
 Roll up :loudspeaker:, roll up :loudspeaker:, follow **The Real Beast** himself on GitHub to receive an invite to the team.
 
