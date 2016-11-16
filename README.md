@@ -2,7 +2,11 @@
 
 ###Founder, CTO and Lead Programmer
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style 
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style
+
+###Consultant, Leadership and Business Strategy
+
+- [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - Energy Beast
 
 ###NOC Manager and Senior Network Engineer
 
