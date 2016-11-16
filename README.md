@@ -14,7 +14,7 @@
 
 ###System Architect, System Analyst, Oracle Developer
 
-- [Leigh Taylor](https://github.com/leightaylor77)
+- [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152)
 
 ###Top Database Professional
 
