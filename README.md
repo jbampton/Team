@@ -28,6 +28,10 @@
 
 - [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f) - Ninja
 
+###LAMP Programmer :man:
+
+- [Ian Grice](https://github.com/someonefamous) - PHP DemiGod
+
 ###Project Manager :it: :princess: 
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi :libra:
