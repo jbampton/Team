@@ -4,6 +4,8 @@
 
 - [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
 
+John has worked on a number of projects for me over the past three years. His contributions have been significant to the successful deployment of an enterprise document publishing system. His skills in XSLT, XSD and XML, Ruby and Python, combine with a design approach that results in compact and agile code. His "outside-the-box" solutions have also proven their worth with ongoing maintenance and support.
+
 ###Consultant, Leadership and Business Strategy :us: :older_man: :whale:
 
 - [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - Energy Beast
