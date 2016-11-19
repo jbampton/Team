@@ -10,6 +10,12 @@ John has worked on a number of projects for me over the past three years. His co
 
 - [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - Energy Beast
 
+Independent consulting in energy research and analysis, developing business process and workflow solutions with implementation through computer application development and programming. Projects include technical programming for energy efficiency-related applications and data management systems.
+
+Principal developer of HWSim, a water heating distribution system energy simulation application, under subcontract to Lawrence Berkeley National Laboratory.
+
+Project Lead and Principal Investigator – Codes and Standards Enhancement Initiative: Strengthening Title 24 Code Enforcement for Residential and Nonresidential New Construction. This CASE Project resulted in a ‘Performance Intervention Strategy’ to assist local jurisdictions in enforcing Title 24 Energy Standards. The study based on a survey of California building departments Under subcontract to Pacific Gas & Electric Company. December 2004.
+
 ###NOC Manager and Senior Network Engineer :man:
 
 - [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The EtherNic Beast
@@ -22,13 +28,35 @@ John has worked on a number of projects for me over the past three years. His co
 
 - [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast :capricorn:
 
+Serious professional with over 20 years of experience as a programmer and database specialist. My emphasis has been on creating elegant SQL database design integrated with user-friendly front-end software (desktop and web applications).
+
+I have worked mainly as a database designer, programmer and database administrator for bioinformatics, biochemistry, molecular biology, and biomedical research applications. I also have extensive experience programming database-centric software (websites, web applications, desktop applications) for publishing, business, financial, personnel and other purposes.
+
 ###Lead JavaScript / Python Programmer :de: :man:
 
 - [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi) - Sensei
 
+Passionate coder with a background in Business & Administration; seeker of new challenges, new problems to solve and new ways to test and hone my skills; puzzle-solver for a living.
+
+Eager to learn something new every waking day, I discovered the joy and pleasure of "dirtying" my hands with analysis tools and programming whenever I get the chance; competitive coding in particular helped me a lot, offering me highly diversified algorithm-based problems, motivation and the chance to learn best practices from veteran coders.
+
+A teacher at heart, I had been fortunate enough to pass what little I know to many people, thanks to my professional and volunteer activity. Interested in both corporate and start-up work experiences.
+
+Specialities: Marketing Planning, Marketing Strategy, Online Marketing, Data Analysis, Software Development, Copywriting, Brand Management, Neuromarketing, Training
+
 ###Lead Rails Programmer :man:
 
 - [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f) - Ninja
+
+Experiences:
+- communicating with Rackspace Email API for email hosting website
+- communicating with FlightStats API for aviation application
+- communicating with OpenSRS API for hosting website
+- git versioning
+- deployment under engineyard cloud
+- google Map API and MapBox API
+- Background processing, delayed job, reds and more
+- Database design
 
 ###LAMP Programmer :man:
 
