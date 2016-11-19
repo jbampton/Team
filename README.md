@@ -36,6 +36,7 @@
 
 - [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi :libra:
 
+Native German Remote Team and Project Manager with a long and successful track record managing remote teams and dispersed projects. Combining German efficiency with a British sense of humour and a recently developed and joyfully encouraged Italian temper (yes, sounds dangerous, doesn't it?) Living in Italy (South) 4 minutes walk from the beach, collecting cats, much to the dog's disgust. Trying to learn Ruby with John holding a virtual gun to my head, but surprisingly enjoying it. 
 
 #Applications are now open to join **The Real Beast Team** :passport_control::moneybag::credit_card::red_car::sailboat::speedboat::helicopter::airplane:
 
