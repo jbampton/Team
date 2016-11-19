@@ -58,9 +58,6 @@ Experiences:
 - Background processing, delayed job, reds and more
 - Database design
 
-###LAMP Programmer :man:
-
-- [Ian Grice](https://github.com/someonefamous) - PHP DemiGod
 
 ###Project Manager :it: :princess: 
 
