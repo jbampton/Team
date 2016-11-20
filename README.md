@@ -26,7 +26,7 @@ Project Lead and Principal Investigator – Codes and Standards Enhancement Init
 
 - [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152) - Oracle Beast
 
-###Top Database Professional :us: :man:
+###Consultant and Top Database Professional :us: :man:
 
 - [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast :capricorn:
 
