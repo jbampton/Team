@@ -2,7 +2,7 @@
 
 ###Founder, CTO and Lead Programmer :neckbeard: :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style and Real CTO of TOP California start-up  :cancer:
 
 In the world I roll in when someone tells me to do something I do it straight away correctly the first time like it’s life or death.
 
