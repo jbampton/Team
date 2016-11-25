@@ -2,7 +2,7 @@
 
 ###Founder, CTO and Lead Programmer :neckbeard: :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style and Real CTO of TOP California start-up  :cancer:
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style and **Twice Real CTO** of TOP California start-up  :cancer:
 
 In the world I roll in when someone tells me to do something I do it straight away correctly the first time like it’s life or death.
 
@@ -10,7 +10,7 @@ John has worked on a number of projects for me over the past three years. His co
 
 ###Consultant, Leadership and Business Strategy :us: :older_man: :whale:
 
-- [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - Energy Beast
+- [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - **Energy Beast**
 
 Independent consulting in energy research and analysis, developing business process and workflow solutions with implementation through computer application development and programming. Projects include technical programming for energy efficiency-related applications and data management systems.
 
@@ -20,15 +20,15 @@ Project Lead and Principal Investigator – Codes and Standards Enhancement Init
 
 ###NOC Manager and Senior Network Engineer :man:
 
-- [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The EtherNic Beast
+- [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The **EtherNic** Beast
 
 ###System Architect, System Analyst, Oracle Developer :princess:
 
-- [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152) - Oracle Beast
+- [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152) - **Oracle** Beast
 
-###Consultant and Top Database Professional :us: :man:
+###Consultant and Top PHP / Database Professional :us: :man:
 
-- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - Data Beast :capricorn:
+- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - **Data** Beast :capricorn:
 
 Serious professional with over 20 years of experience as a programmer and database specialist. My emphasis has been on creating elegant SQL database design integrated with user-friendly front-end software (desktop and web applications).
 
@@ -36,7 +36,7 @@ I have worked mainly as a database designer, programmer and database administrat
 
 ###Lead JavaScript / Python Programmer :de: :man:
 
-- [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi) - Sensei
+- [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi) - **Sensei**
 
 Passionate coder with a background in Business & Administration; seeker of new challenges, new problems to solve and new ways to test and hone my skills; puzzle-solver for a living.
 
@@ -48,7 +48,7 @@ Specialities: Marketing Planning, Marketing Strategy, Online Marketing, Data Ana
 
 ###Lead Rails Programmer :man:
 
-- [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f) - Ninja
+- [Sugiarto](https://www.upwork.com/freelancers/~01e12d81269df3013f) - **Ninja**
 
 Experiences:
 - communicating with Rackspace Email API for email hosting website
@@ -61,26 +61,24 @@ Experiences:
 - Database design
 
 
-###Project Manager and Writer :it: :princess: 
+###Project Manager and Writer :it: :princess:
 
-- [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - Ravishing Italian Jedi :libra:
+- [Petra Rüttiger](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - **Ravishing** Italian Jedi :libra:
 
-Native German Remote Team and Project Manager with a long and successful track record managing remote teams and dispersed projects. Combining German efficiency with a British sense of humour and a recently developed and joyfully encouraged Italian temper (yes, sounds dangerous, doesn't it?) Living in Italy (South) 4 minutes walk from the beach, collecting cats, much to the dog's disgust. Trying to learn Ruby with John holding a virtual gun to my head, but surprisingly enjoying it. 
+Native German Remote Team and Project Manager with a long and successful track record managing remote teams and dispersed projects. Combining German efficiency with a British sense of humour and a recently developed and joyfully encouraged Italian temper (yes, sounds dangerous, doesn't it?) Living in Italy (South) 4 minutes walk from the beach, collecting cats, much to the dog's disgust. Trying to learn Ruby with John holding a virtual gun to my head, but surprisingly enjoying it.
 
 ###Social Media Marketing Manager and Writer :princess:
 
-- [Aleah Taboclaon](http://www.solitarywanderer.com) - Marketing Queen
+- [Aleah Taboclaon](http://www.solitarywanderer.com) - **Marketing Queen**
 
 I can also lend you my expertise in Wordpress and social media management. I can manage your Wordpress sites (I have 6 years of experience setting up, running, and maintaining four blogs on WordPress), write/edit content for it, manage your social media accounts (Facebook, Twitter, Instagram) as well as do content marketing. Want someone to polish your writing? Leave it to me and focus on what you do best! I have been a professional editor and proofreader for over 16 years, so your work will be in good hands.
 
 #Applications are now open to join **The Real Beast Team** :passport_control::moneybag::credit_card::red_car::sailboat::speedboat::helicopter::airplane:
 
-Roll up :loudspeaker:, roll up :loudspeaker:, follow **The Real Beast** himself on GitHub to receive an invite to the team.
+Roll up :loudspeaker:, roll up :loudspeaker:, follow **The Real Beast** himself on GitHub to receive an **invite** to the team.
 
 **Jedi Master** or **Sensei** Level applicants only.
 
 #WANTED
 
 **Reliable**, **motivated**, **English** speaking (**on Codewars**) Junior **Ruby** on **Rails** Developers who want to **shake** it up and make some **noise...!?!?!?!!!**
-
-
