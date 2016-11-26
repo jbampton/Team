@@ -12,15 +12,19 @@ John has worked on a number of projects for me over the past **three years**. Hi
 
 - [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - **Energy Beast**
 
-Independent **consulting** in **energy** research and analysis, developing business process and workflow solutions with implementation through computer application development and programming. Projects include technical programming for energy efficiency-related applications and data management systems.
+Independent **consulting** in **energy** research and analysis, developing business process and workflow solutions with implementation through computer application development and programming. Projects include **technical programming** for energy efficiency-related applications and **data management** systems.
 
 **Principal** developer of HWSim, a water heating distribution system energy simulation application, under subcontract to **Lawrence Berkeley National Laboratory**.
 
-**Project Lead** and **Principal Investigator** – Codes and Standards Enhancement Initiative: Strengthening **Title 24** Code Enforcement for Residential and Nonresidential New Construction. This CASE Project resulted in a ‘Performance Intervention Strategy’ to assist local jurisdictions in enforcing Title 24 Energy Standards. The study based on a survey of **California** building departments Under subcontract to **Pacific Gas & Electric Company**. December 2004.
+**Project Lead** and **Principal Investigator** – Codes and Standards Enhancement Initiative: Strengthening **Title 24** Code Enforcement for **Residential** and **Nonresidential** New Construction. This CASE Project resulted in a **‘Performance Intervention Strategy’** to assist local jurisdictions in enforcing **Title 24** Energy Standards. The study based on a survey of **California** building departments Under subcontract to **Pacific Gas & Electric Company**. December 2004.
 
 ###NOC Manager and Senior Network Engineer :man:
 
 - [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The **EtherNic** Beast
+
+**NOC Manager**: [Host Networks](https://www.hostnetworks.com.au/)
+September 2009 – Present (7 years 3 months) Brisbane, Australia
+**Network routing** and **switching** operations, implementation, and management.
 
 ###System Architect, System Analyst, Oracle Developer :princess:
 
