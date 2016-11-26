@@ -23,7 +23,9 @@ Independent **consulting** in **energy** research and analysis, developing busin
 - [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The **EtherNic** Beast
 
 **NOC Manager**: [Host Networks](https://www.hostnetworks.com.au/)
+
 September 2009 – Present (7 years 3 months) Brisbane, Australia
+
 **Network routing** and **switching** operations, implementation, and management.
 
 ###System Architect, System Analyst, Oracle Developer :princess:
