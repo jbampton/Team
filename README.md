@@ -2,21 +2,17 @@
 
 ###Founder, CTO and Lead Programmer :neckbeard: :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style and **Twice Real CTO** of TOP California start-up  :cancer:
-
-**In the world I roll in when someone tells me to do something I do it straight away correctly the first time like it’s life or death.**
+- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
 
 John has worked on a number of projects for me over the past **three years**. His contributions have been **significant** to the successful deployment of an **enterprise** document publishing system. His skills in **XSLT**, **XSD** and **XML**, **Ruby** and **Python**, combine with a **design approach** that results in **compact** and **agile** code. His **"outside-the-box"** solutions have also proven their worth with ongoing maintenance and support.
 
-###Consultant, Leadership and Business Strategy :us: :older_man: :whale:
+###Consultant and Top PHP / Database Professional :us: :man:
 
-- [Robert Scott](https://www.linkedin.com/in/robert-scott-26bb128) - **Energy Beast**
+- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - **Data** Beast :capricorn:
 
-Independent **consulting** in **energy** research and analysis, developing business process and workflow solutions with implementation through computer application development and programming. Projects include **technical programming** for energy efficiency-related applications and **data management** systems.
+Serious professional with over **20 years** of experience as a programmer and **database specialist**. My emphasis has been on creating **elegant SQL** database design integrated with **user-friendly** front-end software (desktop and web applications).
 
-**Principal** developer of HWSim, a water heating distribution system energy simulation application, under subcontract to **Lawrence Berkeley National Laboratory**.
-
-**Project Lead** and **Principal Investigator** – Codes and Standards Enhancement Initiative: Strengthening **Title 24** Code Enforcement for **Residential** and **Nonresidential** New Construction. This CASE Project resulted in a **‘Performance Intervention Strategy’** to assist local jurisdictions in enforcing **Title 24** Energy Standards. The study based on a survey of **California** building departments Under subcontract to **Pacific Gas & Electric Company**. December 2004.
+I have worked mainly as a database designer, programmer and database administrator for bioinformatics, biochemistry, molecular biology, and biomedical research applications. I also have extensive experience programming database-centric software (websites, web applications, desktop applications) for publishing, business, financial, personnel and other purposes.
 
 ###NOC Manager and Senior Network Engineer :man:
 
@@ -31,14 +27,6 @@ September 2009 – Present (7 years 3 months) Brisbane, Australia
 ###System Architect, System Analyst, Oracle Developer :princess:
 
 - [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152) - **Oracle** Beast
-
-###Consultant and Top PHP / Database Professional :us: :man:
-
-- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - **Data** Beast :capricorn:
-
-Serious professional with over **20 years** of experience as a programmer and **database specialist**. My emphasis has been on creating **elegant SQL** database design integrated with **user-friendly** front-end software (desktop and web applications).
-
-I have worked mainly as a database designer, programmer and database administrator for bioinformatics, biochemistry, molecular biology, and biomedical research applications. I also have extensive experience programming database-centric software (websites, web applications, desktop applications) for publishing, business, financial, personnel and other purposes.
 
 ###Lead JavaScript / Python Programmer :de: :man:
 
