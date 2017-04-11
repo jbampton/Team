@@ -67,7 +67,7 @@ Native **German** Remote Team and Project Manager with a long and **successful**
 
 I can also lend you my expertise in **Wordpress** and **social media management**. I can manage your Wordpress sites (I have 6 years of experience setting up, running, and maintaining four blogs on WordPress), **write/edit** content for it, **manage** your social media accounts (**Facebook**, **Twitter**, **Instagram**) as well as do **content marketing**. Want someone to **polish** your writing? Leave it to me and focus on what you do best! I have been a **professional** editor and proofreader for over **16 years**, so your work will be in good hands.
 
-#Applications are now open to join **The Real Beast Team** :passport_control::moneybag::credit_card::red_car::sailboat::speedboat::helicopter::airplane:
+# Applications are now open to join **The Real Beast Team** :passport_control::moneybag::credit_card::red_car::sailboat::speedboat::helicopter::airplane:
 
 Roll up :loudspeaker:, roll up :loudspeaker:, follow **The Real Beast** himself on GitHub to receive an **invite** to the team.
 
