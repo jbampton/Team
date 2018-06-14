@@ -34,7 +34,7 @@ September 2009 – Present.  Brisbane, Australia.
 
 ### Lead JavaScript / Python Programmer :de: :man:
 
-- [Giacomo Sorbi](https://www.codewars.com/users/GiacomoSorbi) - **Sensei**
+- [Giacomo Sorbi](https://www.linkedin.com/in/giacomosorbi/) - **Sensei**
 
 Passionate coder with a background in Business & Administration; seeker of new challenges, new problems to solve and new ways to test and hone my skills; **puzzle-solver for a living**.
 
