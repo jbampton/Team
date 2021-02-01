@@ -2,7 +2,7 @@
 
 ### Founder, CTO and Lead Programmer :neckbeard: :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
-- [The Real Beast](http://thebeast.me/about/) - Steak or Streak, ECC RAM Style :cancer:
+- [The Real Beast](https://jbampton.github.io) - Steak or Streak, ECC RAM Style :cancer:
 
 John has worked on a number of projects for me over the past **three years**. His contributions have been **significant** to the successful deployment of an **enterprise** document publishing system. His skills in **XSLT**, **XSD** and **XML**, **Ruby** and **Python**, combine with a **design approach** that results in **compact** and **agile** code. His **"outside-the-box"** solutions have also proven their worth with ongoing maintenance and support.
 
@@ -58,13 +58,6 @@ Experiences:
 - **google Map** API and **MapBox** API
 - **Background processing**, **delayed job**, reds and more
 - Database design
-
-
-### Project Manager and Writer :it: :princess:
-
-- [Petra R](https://www.upwork.com/o/profiles/users/_~01012c0f7e1e9bc171/) - **Ravishing** Italian Jedi :libra:
-
-Native **German** Remote Team and Project Manager with a long and **successful** track record managing remote teams and dispersed projects. Combining German efficiency with a British sense of humour and a recently developed and joyfully encouraged Italian temper (yes, sounds dangerous, doesn't it?) Living in Italy (South) 4 minutes walk from the beach, collecting cats, much to the dog's disgust. **Trying to learn Ruby** with John holding a virtual gun to my head, but **surprisingly enjoying it**.
 
 
 ### Social Media Marketing Manager and Writer :princess:
