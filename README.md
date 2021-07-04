@@ -1,20 +1,10 @@
-# The Real Beast Team :family: :restroom: :clock12: :no_smoking: :no_mobile_phones: :e-mail: :do_not_litter: :no_pedestrians:  :shipit: :us: :statue_of_liberty::boom::boom::boom::boom::bangbang::bangbang::bangbang::bangbang::bangbang:
+# The Real Beast Team :family: :restroom: :clock12: :no_smoking: :no_mobile_phones: :e-mail: :do_not_litter: :no_pedestrians:  :shipit: :boom::boom::boom::boom::bangbang::bangbang::bangbang::bangbang::bangbang:
 
 ### Founder, CTO and Lead Programmer :neckbeard: :guardsman::muscle::muscle::fist::fist::facepunch::facepunch::boom::boom::point_up:
 
-- [The Real Beast](https://jbampton.github.io) - Steak or Streak, ECC RAM Style :cancer:
+- [The Real Beast](https://www.codewars.com/users/Beast) - Steak or Streak, ECC RAM Style :cancer:
 
 John has worked on a number of projects for me over the past **three years**. His contributions have been **significant** to the successful deployment of an **enterprise** document publishing system. His skills in **XSLT**, **XSD** and **XML**, **Ruby** and **Python**, combine with a **design approach** that results in **compact** and **agile** code. His **"outside-the-box"** solutions have also proven their worth with ongoing maintenance and support.
-
-
-### Consultant and Top PHP / Database Professional :us: :man:
-
-- [Preston Hunter](https://www.upwork.com/users/~012ab645e1d96a5c7f) - **Data** Beast :capricorn:
-
-Serious professional with over **20 years** of experience as a programmer and **database specialist**. My emphasis has been on creating **elegant SQL** database design integrated with **user-friendly** front-end software (desktop and web applications).
-
-I have worked mainly as a database designer, programmer and database administrator for bioinformatics, biochemistry, molecular biology, and biomedical research applications. I also have extensive experience programming database-centric software (websites, web applications, desktop applications) for publishing, business, financial, personnel and other purposes.
-
 
 ### NOC Manager and Senior Network Engineer :man:
 
@@ -25,12 +15,6 @@ I have worked mainly as a database designer, programmer and database administrat
 September 2009 – Present.  Brisbane, Australia.
 
 **Network routing** and **switching** operations, implementation, and management.
-
-
-### System Architect, System Analyst, Oracle Developer :princess:
-
-- [Leigh Taylor](https://au.linkedin.com/in/leigh-taylor-5408a152) - **Oracle** Beast
-
 
 ### Lead JavaScript / Python Programmer :de: :man:
 
@@ -43,7 +27,6 @@ Eager to learn something new **every waking day**, I discovered the joy and plea
 A **teacher** at heart, I had been fortunate enough to pass what little I know to many people, thanks to my professional and **volunteer** activity. Interested in both corporate and start-up work experiences.
 
 Specialities: Marketing Planning, Marketing Strategy, Online Marketing, Data Analysis, **Software Development**, Copywriting, Brand Management, Neuromarketing, Training
-
 
 ### Lead Rails Programmer :man:
 
@@ -59,13 +42,11 @@ Experiences:
 - **Background processing**, **delayed job**, reds and more
 - Database design
 
-
 ### Social Media Marketing Manager and Writer :princess:
 
 - [Aleah Taboclaon](http://www.solitarywanderer.com) - **Marketing Queen**
 
 I can also lend you my expertise in **Wordpress** and **social media management**. I can manage your Wordpress sites (I have 6 years of experience setting up, running, and maintaining four blogs on WordPress), **write/edit** content for it, **manage** your social media accounts (**Facebook**, **Twitter**, **Instagram**) as well as do **content marketing**. Want someone to **polish** your writing? Leave it to me and focus on what you do best! I have been a **professional** editor and proofreader for over **16 years**, so your work will be in good hands.
-
 
 ### Graphic Designer :us: :man:
 
@@ -78,7 +59,6 @@ I can do some basic 3D work, or effects, but mostly you’ll see flat design and
 It might be worth mentioning that I use software from **Serif Software** in the UK, their older apps and their new line of Affinity Design and Affinity Photo. This means I can output most of the formats you might need if they are not too publisher dependent. 
 
 You can find me at the PC periodically throughout the day and night, about six days a week, right here in Arizona.
-
 
 # Applications are now open to join **The Real Beast Team** :passport_control::moneybag::credit_card::red_car::sailboat::speedboat::helicopter::airplane:
 
