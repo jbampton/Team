@@ -60,7 +60,7 @@ It might be worth mentioning that I use software from **Serif Software** in the 
 
 You can find me at the PC periodically throughout the day and night, about six days a week, right here in Arizona.
 
-### Adorner, Electrical Engineer, Self Pproclaimed Utility Wrench, Python Newbie, MATLAB Ninja, IT guy
+### Adorner, Electrical Engineer, Self Proclaimed Utility Wrench, Python Newbie, MATLAB Ninja, IT guy
 
 - [Pedram-cVx](https://www.codewars.com/users/pedramcvx1)
 
