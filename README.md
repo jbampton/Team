@@ -19,7 +19,7 @@ You maybe think why do a mathematical student and person work in computer scienc
 You can find `Max` mostly in Open-Source land which is the real world.
 Learning, Work in the community, Share the experience and code publicly is what he did in recent years.
 
-John is one of the good friends of Max and John showed Max some special views from OSS.
+`Beast` is one of Max's good friends and `John` showed `Max` some special views from OSS.
 
 Email: maxbasecode [ @ ] gmail...
 
