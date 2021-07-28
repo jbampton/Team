@@ -14,7 +14,7 @@ September 2018 – Present. Iran. 🇮🇷
 His life is mostly as a `computer lover` with a focus on `compiler` and `programming languages`, since he has  tested most of the languages and tools. `Max` has amazing experience in web development and software design. His educational background is in the **mathematics** field at the [University of Kashan](https://github.com/KashanIT). Max is a mathematical user because he has connected to the community of CE and CS students as well as the GitHub community.
 
 You maybe think why do a mathematical student and person work in computer science, Yes. it may be a bit strange. 
-He also researches with professors of the university to do some research and attends Science conferences (If he finds some time, since he is mostly busy with Open-Source projects of the team) and its mission is to combine mathematics science with the computer. Anyway, He is a programmer and not a mathematics man.
+`Max` also researches with professors of the university, attends science conferences (If he finds some time, since he is mostly busy with Open-Source projects) and his mission is to combine mathematics science with the computer. Anyway, `Max` is a programmer and not a mathematician.
 
 You can find `Max` mostly in Open-Source land which is the real world.
 Learning, Work in the community, Share the experience and code publicly is what he did in recent years.
