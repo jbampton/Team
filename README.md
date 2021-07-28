@@ -17,7 +17,7 @@ You maybe think why do a mathematical student and person work in computer scienc
 `Max` also researches with professors of the university, attends science conferences (If he finds some time, since he is mostly busy with Open-Source projects) and his mission is to combine mathematics science with the computer. Anyway, `Max` is a programmer and not a mathematician.
 
 You can find `Max` mostly in Open-Source land which is the real world.
-Learning, Work in the community, Share the experience and code publicly is what he did in recent years.
+Learning, working in the community, sharing experiences and collaborating on GitHub is what `Max` has done in recent years.
 
 `Beast` is one of Max's good friends and `John` showed `Max` some special views from OSS.
 
