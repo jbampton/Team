@@ -8,7 +8,7 @@ John has worked on a number of projects for me over the past **three years**. Hi
 
 ### Software engineer, GitHub Developer maintainer
 
-September 2018 – Present.  Iran.
+September 2018 – Present. Iran. 🇮🇷
 
 **Max** is a software engineer or maybe just a programmer, and a **GitHub Developer** maintainer, so far creator of **The One programming language**.
 His life is mostly as a computer lover with a focus on compiler and programming languages, It's why he tested most of the tools and languages. Anyway, He has very good experience in Web development and software design. His educational background is **mathematics** field at the University of Kashan. It's a mathematical user by the way he connected to a community of CE and CS students and community.
