@@ -16,7 +16,7 @@ His life is mostly as a computer lover with a focus on compiler and programming 
 You maybe think why do a mathematical student and person work in computer science, Yes. it may be a bit strange. 
 He also researches with professors of the university to do some research and attends Science conferences (If he finds some time, since he is mostly busy with Open-Source projects of the team) and its mission is to combine mathematics science with the computer. Anyway, He is a programmer and not a mathematics man.
 
-You can find him mostly in Open-Source land and not in the real world.
+You can find `Max` mostly in Open-Source land which is the real world.
 Learning, Work in the community, Share the experience and code publicly is what he did in recent years.
 
 John is one of the good friends of Max and John showed Max some special views from OSS.
