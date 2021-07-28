@@ -11,7 +11,7 @@ John has worked on a number of projects for me over the past **three years**. Hi
 September 2018 – Present. Iran. 🇮🇷
 
 **Max** is a software engineer or maybe just a programmer, and a **GitHub Developer** maintainer, so far creator of **The One programming language**.
-His life is mostly as a computer lover with a focus on compiler and programming languages, It's why he tested most of the tools and languages. Anyway, He has very good experience in Web development and software design. His educational background is **mathematics** field at the University of Kashan. It's a mathematical user by the way he connected to a community of CE and CS students and community.
+His life is mostly as a `computer lover` with a focus on `compiler` and `programming languages`, since he has  tested most of the languages and tools. `Max` has amazing experience in web development and software design. His educational background is in the **mathematics** field at the [University of Kashan](https://github.com/KashanIT). Max is a mathematical user because he has connected to the community of CE and CS students as well as the GitHub community.
 
 You maybe think why do a mathematical student and person work in computer science, Yes. it may be a bit strange. 
 He also researches with professors of the university to do some research and attends Science conferences (If he finds some time, since he is mostly busy with Open-Source projects of the team) and its mission is to combine mathematics science with the computer. Anyway, He is a programmer and not a mathematics man.
