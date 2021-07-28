@@ -6,7 +6,7 @@
 
 John has worked on a number of projects for me over the past **three years**. His contributions have been **significant** to the successful deployment of an **enterprise** document publishing system. His skills in **XSLT**, **XSD** and **XML**, **Ruby** and **Python**, combine with a **design approach** that results in **compact** and **agile** code. His **"outside-the-box"** solutions have also proven their worth with ongoing maintenance and support.
 
-### Software engineer, GitHub Developer maintainer
+### Software Engineer, GitHub Developer Maintainer 🖴
 
 September 2018 – Present. Iran. 🇮🇷
 
