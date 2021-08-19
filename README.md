@@ -27,6 +27,37 @@ GitHub: https://github.com/basemax
 
 Telegram: https://t.me/MAX_BASE
 
+### Digital Marketing Specialist, Business Consultant 🖴
+
+April 2021 – Present. Jordan. JO
+
+**Majalian** is a digital marketing expert, founder of **Alpha Digital Marketing** [Alpha](https://github.com/Joalphaco).
+
+As your personal social media manager, I can provide you with exemplary content that will be beneficial to your readers. I create written material that is relevant, engaging, and targeted at the specific audience you have. Whatever type of content you need, I am here to help.
+
+As an experienced digital marketer, I specialize in content creation, articles writing, website content writing, social media posts, product description writing, and I also serve as a blog posts writer, while leveraging my Search Engine Optimization (SEO) skills.
+
+I have covered various topics whether as a B2B or B2C writer in the following industries:
+
+Business, Technology Cryptocurrency Finance Business Nonprofit organization Travel Tourism Entertainment Music Politics
+
+I also assist with many areas of social media, such as.
+
+Organic engagement & growth strategies
+Content creation: Capturing the product or service in the best way possible
+Instagram Reels, Tik Tok, and Video Content ideas and content writing
+Understanding the target audience and their lifestyle interest. Creating balance and contrast with 'selling' or 'promoting' services and giving value to customers.
+Editing content for social media
+Caption writing & copywriting
+Social Media strategy, planning, and content schedules.
+professional content creation: product and lifestyle
+
+`Beast` is one of Majalian's good friends.
+
+Email: mujahid.majalian [ @ ] gmail...
+
+GitHub: https://github.com/Majalian
+
 ### NOC Manager and Senior Network Engineer :man:
 
 - [Nicholas Meredith](https://twitter.com/MrNickMeredith) - The **EtherNic** Beast
